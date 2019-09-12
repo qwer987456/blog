@@ -19,7 +19,7 @@ step2:初始化Git版本管理
 `$git add .`  
 `$git commit -m 'description'`  
 step4:在github建立新repository，在連到github上  
-`$git remote add origin https://github.com/qwer987456/repositoryname.git`  
+`$git remote add origin https://github.com/username/repositoryname.git`  
 step5:將資料push上去  
 `$git push -u origin master`
 
